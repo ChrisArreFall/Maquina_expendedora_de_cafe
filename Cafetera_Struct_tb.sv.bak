@@ -1,0 +1,10 @@
+module Cafetera_Struct_tb();
+	logic clk;
+	logic [3:0] Monedas,seleccionador_4bits;
+	logic [6:0] Segmentos0,Segmentos1,Segmentos2,Segmentos3;
+	logic [3:0] LEDS_Seleccion;
+	logic LEDS_Aceptada;
+	
+	
+	
+endmodule

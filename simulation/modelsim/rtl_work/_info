@@ -1,0 +1,62 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Chris/Desktop/LAB_4/simulation/modelsim
+vSeleccionador
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1536858217
+!i10b 1
+!s100 VzP[HTH8PYg^VOeXi3F_62
+I>32TVboZ65TeB=7LWK8iC3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Seleccionador_sv_unit
+S1
+R0
+w1536858143
+8C:/Users/Chris/Desktop/LAB_4/Seleccionador.sv
+FC:/Users/Chris/Desktop/LAB_4/Seleccionador.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1536858216.000000
+!s107 C:/Users/Chris/Desktop/LAB_4/Seleccionador.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Chris/Desktop/LAB_4|C:/Users/Chris/Desktop/LAB_4/Seleccionador.sv|
+!i113 1
+Z5 o-sv -work work
+Z6 !s92 -sv -work work +incdir+C:/Users/Chris/Desktop/LAB_4
+Z7 tCvgOpt 0
+n@seleccionador
+vSeleccionador_tb
+R1
+R2
+!i10b 1
+!s100 >P89kYYh^@L_^cLkJcH<71
+IJ2FN36_>]9SOhJd=8ajHz1
+R3
+!s105 Seleccionador_tb_sv_unit
+S1
+R0
+w1536857474
+8C:/Users/Chris/Desktop/LAB_4/Seleccionador_tb.sv
+FC:/Users/Chris/Desktop/LAB_4/Seleccionador_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1536858217.000000
+!s107 C:/Users/Chris/Desktop/LAB_4/Seleccionador_tb.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Chris/Desktop/LAB_4|C:/Users/Chris/Desktop/LAB_4/Seleccionador_tb.sv|
+!i113 1
+R5
+R6
+R7
+n@seleccionador_tb
